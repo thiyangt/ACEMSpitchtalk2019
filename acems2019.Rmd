@@ -1,0 +1,34 @@
+---
+title: "Computationally Efficient Forecasting Methods for Large-Scale Real-Time Applications"
+subtitle: ""
+author: "Thiyanga Talagala"
+institute: "Monash University"
+date: "2019/10/30"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+### Forecasting at scale
+.pull-left[
+
+![an image](img/web.png)
+![an image](img/grocerystore.jpg)
+
+
+
+]
+
+.pull-right[
+<img src="img/job.png" height="500", width="700">
+
+.small[Scope: Forecasting of millions of individual time series]
+]
+
+---
+
+## Feature-based Forecasting
