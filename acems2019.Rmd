@@ -6,14 +6,16 @@ institute: "Monash University"
 date: "2019/10/30"
 output:
   xaringan::moon_reader:
-    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts, "custom.css"]
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
 
-### Forecasting at scale
+
+
+# Forecasting at scale
 .pull-left[
 
 ![an image](img/web.png)
@@ -24,11 +26,13 @@ output:
 ]
 
 .pull-right[
-<img src="img/job.png" height="500", width="700">
+<img src="img/job.png" height="450", width="700">
 
 .small[Scope: Forecasting of millions of individual time series]
 ]
 
 ---
 
-## Feature-based Forecasting
+# Feature-based Forecasting
+
+
