@@ -108,25 +108,18 @@ ggplot(df, aes(x = trend, y = seasonality)) +
 
 # R package
 
-.pull-left[
+<div align="center">
+<img src="img/seer.png" width=200>
+</div>
 
-<img src="img/seer.png"  width="200">
 
-**available at: https://github.com/thiyangt/seer**
 
-**Installation: **
+**Available at: https://github.com/thiyangt/seer**
 
 ```r
 devtools::install_github("thiyangt/seer")
 library(seer)
 ```
-
-]
-
-.pull-right[
-
-
-Slides can be viewed at:: https://thiyanga.netlify.com
 
 
 Slides created with [R Markdown](https://rmarkdown.rstudio.com) using the R package [**xaringan**](https://github.com/yihui/xaringan)
@@ -136,7 +129,4 @@ Slides created with [R Markdown](https://rmarkdown.rstudio.com) using the R pack
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-
-
-]
 ---
