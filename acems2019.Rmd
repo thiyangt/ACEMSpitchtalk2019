@@ -116,15 +116,10 @@ ggplot(df, aes(x = trend, y = seasonality)) +
 
 **Available at: https://github.com/thiyangt/seer**
 
-```r
-devtools::install_github("thiyangt/seer")
-library(seer)
-```
 
+Papers and slides: https://thiyanga.netlify.com
 
 Slides created with [R Markdown](https://rmarkdown.rstudio.com) using the R package [**xaringan**](https://github.com/yihui/xaringan).
-
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
